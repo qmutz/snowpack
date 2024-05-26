@@ -50,7 +50,7 @@
     "is-builtin-module": "^3.0.0",
     "kleur": "^4.1.1",
     "mkdirp": "^1.0.3",
-    "rimraf": "^3.0.0",
+    "rimraf": "^4.3.1",
     "rollup": "^2.23.0",
     "rollup-plugin-node-polyfills": "^0.2.1",
     "validate-npm-package-name": "^3.0.0"
