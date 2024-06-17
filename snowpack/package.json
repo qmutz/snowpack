@@ -83,7 +83,7 @@
     "strip-ansi": "^6.0.0",
     "strip-comments": "^2.0.1",
     "validate-npm-package-name": "^3.0.0",
-    "ws": "^7.3.0",
+    "ws": "^8.17.1",
     "yargs-parser": "^20.0.0"
   }
 }
